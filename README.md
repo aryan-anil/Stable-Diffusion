@@ -1,5 +1,5 @@
 # Stable-Diffusion
-SD implementation taken from [hkproj](https://github.com/hkproj/pytorch-stable-diffusion/)
+SD implementation
 
 `weights`, `vocab.json` & `merges.txt` from [runwayml](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main)
 
